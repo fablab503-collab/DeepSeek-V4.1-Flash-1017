@@ -4,6 +4,9 @@ library_name: transformers
 pipeline_tag: image-text-to-text
 ---
 
+
+> **Source:** mirror of the code, config and tokenizer of DeepSeek-V4.1-Flash-1017 published by DeepSeek on Hugging Face, MIT License (see `LICENSE`, Copyright DeepSeek). Model weights are not included; see `WEIGHTS.md`. Mirrored by D-Creations (Daniel Madac) for reference; all credit to DeepSeek.
+
 # DeepSeek-V4.1-Flash-1017
 
 <!-- markdownlint-disable first-line-h1 -->
